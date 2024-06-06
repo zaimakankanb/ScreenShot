@@ -18,7 +18,8 @@ jobs:
         curl https://image.thum.io/get/width/980/crop/540/allowJPG/wait/20/maxAge/2/noanimate/viewportWidth/1960/https://javhd.com/zh/ -o javhd.com.jpg
         curl https://image.thum.io/get/width/980/crop/540/allowJPG/wait/20/maxAge/2/noanimate/viewportWidth/1960/https://cn.pornhub.com/ -o cn.pornhub.com.jpg
         curl https://image.thum.io/get/width/980/crop/540/allowJPG/wait/20/maxAge/2/noanimate/viewportWidth/1960/https://www.xvideos.com/ -o www.xvideos.com.jpg
-        
+        curl https://image.thum.io/get/width/980/crop/540/allowJPG/wait/20/maxAge/2/noanimate/viewportWidth/1960/https://iqqtt7.work// -o iqqtt7.work.jpg
+
         curl https://purge.jsdelivr.net/gh/zaimakankanb/ScreenShot@gh-pages/*.*
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
