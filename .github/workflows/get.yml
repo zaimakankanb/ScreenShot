@@ -13,13 +13,15 @@ jobs:
     steps:
     - name: Download
       run: |
-        curl https://image.thum.io/get/width/980/crop/540/allowJPG/wait/20/maxAge/2/noanimate/viewportWidth/1960/https://www.dongti.me/ -o www.dongti.me.jpg
-        curl https://image.thum.io/get/width/980/crop/540/allowJPG/wait/20/maxAge/2/noanimate/viewportWidth/1960/https://www.91dizhi8.com/ -o www.91dizhi8.com.jpg
-        curl https://image.thum.io/get/width/980/crop/540/allowJPG/wait/20/maxAge/2/noanimate/viewportWidth/1960/https://javhd.com/zh/ -o javhd.com.jpg
-        curl https://image.thum.io/get/width/980/crop/540/allowJPG/wait/20/maxAge/2/noanimate/viewportWidth/1960/https://cn.pornhub.com/ -o cn.pornhub.com.jpg
-        curl https://image.thum.io/get/width/980/crop/540/allowJPG/wait/20/maxAge/2/noanimate/viewportWidth/1960/https://www.xvideos.com/ -o www.xvideos.com.jpg
-        curl https://image.thum.io/get/width/980/crop/540/allowJPG/wait/20/maxAge/2/noanimate/viewportWidth/1960/https://iqqtt7.work// -o iqqtt7.work.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.dongti.me/ -o www.dongti.me.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.91dizhi8.com/ -o www.91dizhi8.com.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://javhd.com/zh/ -o javhd.com.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://cn.pornhub.com/ -o cn.pornhub.com.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.xvideos.com/ -o www.xvideos.com.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://iqqtt7.work/ -o iqqtt7.work.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://bbs.south-plus.org/ -o bbs.south-plus.org.jpg
 
+        
         curl https://purge.jsdelivr.net/gh/zaimakankanb/ScreenShot@gh-pages/*.*
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
