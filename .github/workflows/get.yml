@@ -15,7 +15,7 @@ jobs:
       run: |
         curl https://urlscan.io/liveshot/?width=1960&height=1080&url=https://www.dongti.me/ -o akilar.top.jpg
         
-        curl https://purge.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/*.*
+        curl https://purge.jsdelivr.net/gh/zaimakankanb/ScreenShot@gh-pages/*.*
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
