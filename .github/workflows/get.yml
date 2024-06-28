@@ -31,7 +31,7 @@ jobs:
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://javdb.com/ -o javdb.com.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://avmoo.online/ -o avmoo.online.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://jav.place/ -o jav.place.jpg
-        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://zil.ing/ -o zil.ing.jpg
+
         
         curl https://purge.jsdelivr.net/gh/zaimakankanb/ScreenShot@gh-pages/*.*
     - name: Deploy
