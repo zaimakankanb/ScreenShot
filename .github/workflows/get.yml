@@ -35,6 +35,9 @@ jobs:
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://share.acgnx.net/ -o share.acgnx.net.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.acgdh.cc/ -o www.acgdh.cc.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://moeli-desu.com/ -o moeli-desu.com.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.acgbox.link/ -o www.acgbox.link.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.miaoaaa.com/ -o www.miaoaaa.com.jpg
+
 
         curl https://purge.jsdelivr.net/gh/zaimakankanb/ScreenShot@gh-pages/*.*
     - name: Deploy
