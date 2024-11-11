@@ -46,7 +46,7 @@ jobs:
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://d.q6abhrhms4.cc/ -o douyin.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://1g6uweithz.com/ -o selifan.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://7dxhra5l3se7fke.com/ -o banciyuan.jpg
-
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.mimi2024.cc/link -o mimirukou.jpg
 
         curl https://purge.jsdelivr.net/gh/zaimakankanb/ScreenShot@gh-pages/*.*
     - name: Deploy
