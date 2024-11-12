@@ -36,7 +36,6 @@ jobs:
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://moeli-desu.com/ -o moeli-desu.com.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.acgbox.link/ -o www.acgbox.link.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.miaoaaa.com/ -o www.miaoaaa.com.jpg
-        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://bibeidh.vip/ -o bibeidh.vip.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://miaodh.net -o miaodh.net.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.moe-box.com -o www.moe-box.com.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://partaide.com -o partaide.com.jpg
@@ -46,7 +45,15 @@ jobs:
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://d.q6abhrhms4.cc/ -o douyin.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://1g6uweithz.com/ -o selifan.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://7dxhra5l3se7fke.com/ -o banciyuan.jpg
-        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.mimi2024.cc/link -o mimirukou.jpg
+
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.mimi2024.net/link -o mimirukou.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.yanjiu2024.bid/学习资料/ -o yanjiusuopo.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://jimeng2022.me/jm/ -o jimeng.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://link2url.us/sq/ -o shuqian.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.gongkouji.org/工口/ -o gongkou.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.mojinghao.cc/魔镜 -o mojing.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://baozang2024.com/宝藏/ -o baozang.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://link2url.us/zz -o zhaizhai.jpg
 
         curl https://purge.jsdelivr.net/gh/zaimakankanb/ScreenShot@gh-pages/*.*
     - name: Deploy
