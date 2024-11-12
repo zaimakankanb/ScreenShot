@@ -50,9 +50,9 @@ jobs:
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://yjs.vc/ -o yanjiusuo.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://jimeng2022.me/jm/ -o jimeng.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://link2url.us/sq/ -o shuqian.jpg
-        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.gongkouji.org/工口/ -o gongkou.jpg
-        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.mojinghao.cc/魔镜 -o mojing.jpg
-        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://baozang2024.com/宝藏/ -o baozang.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.gongkouji.org/%E5%B7%A5%E5%8F%A3/ -o gongkou.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.mojinghao.cc/%E9%AD%94%E9%95%9C/ -o mojing.jpg
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://baozang2024.com/%E5%AE%9D%E8%97%8F/ -o baozang.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://link2url.us/zz -o zhaizhai.jpg
 
         curl https://purge.jsdelivr.net/gh/zaimakankanb/ScreenShot@gh-pages/*.*
