@@ -54,7 +54,7 @@ jobs:
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://www.mojinghao.cc/%E9%AD%94%E9%95%9C/ -o mojing.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://baozang2024.com/%E5%AE%9D%E8%97%8F/ -o baozang.jpg
         curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://link2url.us/zz -o zhaizhai.jpg
-
+        curl https://image.thum.io/get/width/980/allowJPG/wait/20/maxAge/1/noanimate/viewportWidth/1960/https://baike2022.buzz/bk/ -o baike.jpg
         curl https://purge.jsdelivr.net/gh/zaimakankanb/ScreenShot@gh-pages/*.*
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
